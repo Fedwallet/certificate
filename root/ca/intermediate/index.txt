@@ -1,0 +1,1 @@
+V	160920015551Z		1000	unknown	/C=US/ST=Kentucky/L=Lexington/O=Away from Home/OU=Away from Home Certificate Authority/CN=www.example.com
